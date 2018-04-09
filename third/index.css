@@ -1,0 +1,38 @@
+.container {
+    height: 100px;
+    width: auto;
+}
+
+.header{
+    position: relative;
+    background: lightgray;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.avatar{
+    position: absolute;
+    margin-left : 25px;
+    height: 50px;
+    width : 50px;
+    background: #5890DC;
+}
+
+.section1{
+    width: auto;
+    padding: 50px;
+}
+
+.section2{
+    background: #5890DC;
+}
+.section3{
+    background: #7BE0C4;
+}
+.section4{
+    background: #C2E791;
+}
+.section5{
+    background: #F6E652;
+}
